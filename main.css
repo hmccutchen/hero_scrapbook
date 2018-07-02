@@ -5,6 +5,9 @@ background-size: cover;
 font-family: sans-serif;
 text-align: center;
 }
+.freakazoid {
+  background-image: url("freakazoid-wp.png");
+}
 h1, h2, h3 {
   font-family: 'Bangers', cursive;
   text-shadow: 1px 1px 0px black;
@@ -20,6 +23,11 @@ img {
 }
 a {
   text-decoration: none;
+  margin: 30px;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  text-shadow: 1px 1px 0px black;
 }
 p {
   margin: 30px;
