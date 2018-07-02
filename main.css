@@ -3,6 +3,7 @@ html {
   background-image: url("http://2.bp.blogspot.com/-6SjtINIKVYw/ULWKCbZYg6I/AAAAAAAABZk/bpkyaZy_oBA/s1600/spider-men-ultimate-skyline.jpg");
 background-size: cover;
 font-family: sans-serif;
+text-align: center;
 }
 h1, h2, h3 {
   font-family: 'Bangers', cursive;
@@ -11,9 +12,19 @@ h1, h2, h3 {
     margin: 30px;
     text-align: center;
 }
+h1 {
+  font-size: 120px;
+}
+img {
+  border-radius: 5px;
+}
 a {
   text-decoration: none;
 }
 p {
   margin: 30px;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  text-shadow: 1px 1px 0px black;
 }
