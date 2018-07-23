@@ -2,14 +2,15 @@
 {
   "heroes":{
 
-    "Batman":{ "no-powers"
+    "Batman":{ "powers": "no-powers"
 
     },
-    "superman":{ "his strength comes from the sun"
+    "superman":{ "powers": "his strength comes from the sun"
 
     },
-    "captainmarvel":{ "made of magic and could kill supewrman"
+    "captainmarvel":{ "powers": "made of magic and could kill supewrman"
 
     }
   }
 }
+
