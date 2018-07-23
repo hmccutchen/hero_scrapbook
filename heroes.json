@@ -3,6 +3,7 @@
 
 {
   "heroes":{
-            "name":"batman", "name":"superman", "name":"shazam"
+            "name":"batman"
   }
+
 }

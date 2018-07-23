@@ -4,8 +4,8 @@
   xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
       var x = xhttp.responseText;
-      console.log(x.heroes.name);
-
+      JSON.parse(x);
+      console.log(x);
     }
   };
 
