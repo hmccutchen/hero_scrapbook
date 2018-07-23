@@ -1,0 +1,33 @@
+ .wrapper{
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  grid-template-rows: 200px 200px;
+  background: white;
+  grid-gap: 10px 10px;
+
+ }
+
+.item1{
+  background: purple;
+
+}
+
+.item2{
+background: black;
+}
+
+.item3{
+background: blue;
+}
+
+.item4{
+background: red;
+}
+
+.item5{
+background: green;
+}
+
+.item6{
+background: gray;
+}
