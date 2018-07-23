@@ -2,7 +2,9 @@
 
 {
  "universe":{
-    "heroes":{ "name":"batman"
+
+    "heroes":{ "name":["batman", "superman", "shazam", "cyborg"]
+
     }
 
   }
